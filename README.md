@@ -9,6 +9,6 @@ generate your keys on might save the keys you generate, I know the chance of thi
 is low but it is safer and I at least prefer launching this app and instantly having a key
 instead of opening a website.  
   
-I thought why not share this quick app in case you have the same perferrece as I am, you can
+I thought why not share this quick app in case you have the same perferrece as mine, you can
 view the source here and if you don't trust me you can compile it yourself.
   
